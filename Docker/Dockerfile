@@ -6,4 +6,4 @@ USER default
 
 ENV HOME /home/default
 WORKDIR /home/default
-CMD ['/bin/sh']
+CMD ["/bin/sh"]
